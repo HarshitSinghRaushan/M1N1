@@ -80,39 +80,6 @@ Supported compression formats:
 
 m1n1 is licensed under the MIT license, as included in the [LICENSE](LICENSE) file.
 
-* Copyright The Asahi Linux Contributors
-
-Please see the Git history for authorship information.
-
-Portions of m1n1 are based on mini:
-
-* Copyright (C) 2008-2010 Hector Martin "marcan" <marcan@marcan.st>
-* Copyright (C) 2008-2010 Sven Peter <sven@svenpeter.dev>
-* Copyright (C) 2008-2010 Andre Heider <a.heider@gmail.com>
-
-m1n1 embeds libfdt, which is dual [BSD](3rdparty_licenses/LICENSE.BSD-2.libfdt) and
-[GPL-2](3rdparty_licenses/LICENSE.GPL-2) licensed and copyright:
-
-* Copyright (C) 2014 David Gibson <david@gibson.dropbear.id.au>
-* Copyright (C) 2018 embedded brains GmbH
-* Copyright (C) 2006-2012 David Gibson, IBM Corporation.
-* Copyright (C) 2012 David Gibson, IBM Corporation.
-* Copyright 2012 Kim Phillips, Freescale Semiconductor.
-* Copyright (C) 2016 Free Electrons
-* Copyright (C) 2016 NextThing Co.
-
-The ADT code in mini is also based on libfdt and subject to the same license.
-
-m1n1 embeds [minlzma](https://github.com/ionescu007/minlzma), which is
-[MIT](3rdparty_licenses/LICENSE.minlzma) licensed and copyright:
-
-* Copyright (c) 2020 Alex Ionescu
-
-m1n1 embeds a slightly modified version of [tinf](https://github.com/jibsen/tinf), which is
-[ZLIB](3rdparty_licenses/LICENSE.tinf) licensed and copyright:
-
-* Copyright (c) 2003-2019 Joergen Ibsen
-
 m1n1 embeds portions taken from
 [arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware), which is
 [BSD](3rdparty_licenses/LICENSE.BSD-3.arm) licensed and copyright:
