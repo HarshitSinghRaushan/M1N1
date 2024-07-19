@@ -1,6 +1,10 @@
-# m1n1: an experimentation playground for Apple Silicon
+# M1N1: An experimentation playground for Apple Silicon M3
 
 (And to some extent a Linux bootloader)
+
+A custom bootloader config for Arch Linux ARM.
+
+(Any config file change can be catastrophic to the main system server)
 
 ## Building
 
